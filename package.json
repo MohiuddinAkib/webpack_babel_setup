@@ -1,6 +1,6 @@
 {
   "name": "es6-with-webpack-n-babel",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Setting up environment for es6 with webpack and babel",
   "main": "app.js",
   "scripts": {
